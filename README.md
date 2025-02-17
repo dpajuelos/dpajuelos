@@ -6,11 +6,9 @@
   </a>
 </p>
 
-![Banner de GitHub](https://github.com/dpajuelos/dpajuelos/assets/banner.jpg)
-
 [![GitHub followers](https://img.shields.io/github/followers/dpajuelos?style=social)](https://github.com/dpajuelos)
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/aboutme.jpg" width=50px></picture> **Sobre mí**
+## <picture><img src="https://github.com/dpajuelos/dpajuelos/blob/main/assets/aboutme.jpg" width=50px></picture> **Sobre mí**
 
 Soy un desarrollador web con experiencia en tecnologías como **Java**, **PHP**, **JavaScript** y frameworks como **Laravel** y **Spring Boot**. Me apasiona crear soluciones innovadoras y colaborar en proyectos que impulsen el aprendizaje y la creatividad. Actualmente, estoy enfocado en mejorar mis habilidades en **React** y **Astro**, y en explorar el mundo del desarrollo back-end.
 
